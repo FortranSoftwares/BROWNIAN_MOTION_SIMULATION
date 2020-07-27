@@ -23,18 +23,21 @@ The computer code and data files described and made available on this web page a
 
 - motion_1d_data.txt, data for a Brownian motion trajectory in 1D.
 - motion_1d_commands.txt, gnuplot commands to plot data for a Brownian motion trajectory in 1D.
+![](https://raw.githubusercontent.com/FortranSoftwares/BROWNIAN_MOTION_SIMULATION/master/testfiles/motion_1d.png)
 - motion_1d.png, a plot of a Brownian motion trajectory in 1D, with time as second dimension.
 - motion_2d_data.txt, data for a Brownian motion trajectory in 2D.
 - motion_2d_commands.txt, gnuplot commands to plot data for a Brownian motion trajectory in 2D.
+![](https://raw.githubusercontent.com/FortranSoftwares/BROWNIAN_MOTION_SIMULATION/master/testfiles/motion_2d.png)
 - motion_2d.png, a plot of a Brownian motion trajectory in 2D.
 - displacement_1d_data.txt, data for Brownian displacements in 1D.
 - displacement_1d_commands.txt, gnuplot commands to plot Brownian displacements in 1D.
+![](https://raw.githubusercontent.com/FortranSoftwares/BROWNIAN_MOTION_SIMULATION/master/testfiles/displacement_1d.png)
 - displacement_1d.png, a plot of squared displacements, averaged over several 1D Brownian motions.
 - displacement_2d_data.txt, data for Brownian displacements in 2D.
 - displacement_2d_commands.txt, gnuplot commands to plot Brownian displacements in 2D.
-
-[](https://raw.githubusercontent.com/FortranSoftwares/BROWNIAN_MOTION_SIMULATION/master/testfiles/displacement_2d.png)
+![](https://raw.githubusercontent.com/FortranSoftwares/BROWNIAN_MOTION_SIMULATION/master/testfiles/displacement_2d.png)
 - displacement_2d.png, a plot of squared displacements, averaged over several 2D Brownian motions.
 - displacement_3d_data.txt, data for Brownian displacements in 3D.
 - displacement_3d_commands.txt, gnuplot commands to plot Brownian displacements in 3D.
+![](https://raw.githubusercontent.com/FortranSoftwares/BROWNIAN_MOTION_SIMULATION/master/testfiles/displacement_3d.png)
 - displacement_3d.png, a plot of squared displacements, averaged over several 3D Brownian motions.
