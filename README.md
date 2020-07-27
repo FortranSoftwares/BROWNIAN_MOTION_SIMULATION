@@ -32,6 +32,8 @@ The computer code and data files described and made available on this web page a
 - displacement_1d.png, a plot of squared displacements, averaged over several 1D Brownian motions.
 - displacement_2d_data.txt, data for Brownian displacements in 2D.
 - displacement_2d_commands.txt, gnuplot commands to plot Brownian displacements in 2D.
+
+[](https://raw.githubusercontent.com/FortranSoftwares/BROWNIAN_MOTION_SIMULATION/master/testfiles/displacement_2d.png)
 - displacement_2d.png, a plot of squared displacements, averaged over several 2D Brownian motions.
 - displacement_3d_data.txt, data for Brownian displacements in 3D.
 - displacement_3d_commands.txt, gnuplot commands to plot Brownian displacements in 3D.
