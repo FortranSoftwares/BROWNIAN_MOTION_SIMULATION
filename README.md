@@ -7,7 +7,7 @@ Brownian motion is a physical phenomenon which can be observed, for instance, wh
 
 There is a mathematical idealization of this motion, and from there a computational discretization that allows us to simulate the successive positions of a particle undergoing Brownian motion.
 
-Licensing:
+## Licensing:
 The computer code and data files described and made available on this web page are distributed under the MIT license.
 
 
